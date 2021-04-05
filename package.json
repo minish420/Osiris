@@ -1,0 +1,18 @@
+{
+  "name": "discordmusicbot",
+  "version": "1.0.0",
+  "description": "A music bot made in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Minish",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "opusscript": "^0.0.8",
+    "ytdl-core": "^4.5.0",
+    "ytpl": "^2.1.0",
+    "ytsearcher": "^1.2.4"
+  }
+}
